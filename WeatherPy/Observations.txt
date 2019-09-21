@@ -1,0 +1,8 @@
+Observation 1: With some exceptions, temperatures tend to be higher near the equator and lower at more extreme latitudes.
+
+Observation 2: There does not seem to be significant correlation between latitude and humidity or between latitude and cloudiness.
+        
+        Bonus Observation: The greatest cloud cover tends to occur at higher percentages of humidity, although 0% cloud cover is well
+        represented at all humidity levels.  It seems that the maximum threshold for cloud cover increases generally with humidity.
+
+Observation 3: There is more data at the northern extremes of latitude than the southern extremes, and the data extends farther to the north than to the south.  This is likely a result of the fact that there is simply more landmass (i.e. more places to live) in the northern hemisphere.  This suggests that there are factors other than latitude that might skew the data.  Another example is the presence of the highest wind speeds at the lowest latitudes - this is likely due also to the greater ratio of ocean to land at those latitudes, because surfae wind speeds are generally higher over large bodies of water due to a lack of resistance from land features (e.g. trees, hills and mountains, buildings, etc.)
